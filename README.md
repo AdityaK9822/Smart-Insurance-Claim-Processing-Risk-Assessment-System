@@ -4,7 +4,7 @@ A terminal-based C++ application that demonstrates the practical use of **Data S
 
 ---
 
-## 📌 Overview
+## Overview
 
 Insurance companies need to efficiently manage large policy databases, process claims based on urgency, verify policyholder credentials instantly, and identify fraudulent claim networks.
 
@@ -12,17 +12,17 @@ This project solves these challenges by combining multiple data structures and a
 
 ### Core Features
 
-* ⚡ **Instant Policy Verification** using Hash Tables
-* 🌳 **Sorted Policy Management** using AVL Trees
-* 📊 **Priority-Based Claim Processing** using Sorting Algorithms + Queue
-* ↩️ **Undo & Rollback System** using Stack
-* 🕸️ **Fraud Ring Detection** using Graph Traversal (BFS & DFS)
-* 🔍 **Linear & Binary Search Operations**
-* 🖥️ **Interactive Multi-Tab TUI Dashboard** using FTXUI
+*  **Instant Policy Verification** using Hash Tables
+*  **Sorted Policy Management** using AVL Trees
+*  **Priority-Based Claim Processing** using Sorting Algorithms + Queue
+*  **Undo & Rollback System** using Stack
+*  **Fraud Ring Detection** using Graph Traversal (BFS & DFS)
+*  **Linear & Binary Search Operations**
+*  **Interactive Multi-Tab TUI Dashboard** using FTXUI
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 ### 1. Rapid Policy Verification
 
@@ -68,7 +68,7 @@ Visualizes all DSA components in real time through six dedicated tabs.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
 ┌─────────────────────────┐
@@ -104,7 +104,7 @@ Priority Order    Claim Processing
 
 ---
 
-# 📚 Data Structures Used
+#  Data Structures Used
 
 ## Hash Table
 
@@ -196,7 +196,7 @@ Example:
 
 ---
 
-# 🔄 Sorting Algorithms
+#  Sorting Algorithms
 
 All algorithms rank claims by descending priority.
 
@@ -210,7 +210,7 @@ All algorithms rank claims by descending priority.
 
 ---
 
-# 🔍 Searching Algorithms
+#  Searching Algorithms
 
 ## Linear Search
 
@@ -242,7 +242,7 @@ O(log n)
 
 ---
 
-# 📈 Complexity Analysis
+#  Complexity Analysis
 
 | Operation        | Data Structure / Algorithm | Time Complexity | Space Complexity |
 | ---------------- | -------------------------- | --------------- | ---------------- |
@@ -261,7 +261,7 @@ O(log n)
 
 ---
 
-# 🖥️ Dashboard Tabs
+#  Dashboard Tabs
 
 ## Tab 0 – Dashboard Overview
 
@@ -322,7 +322,7 @@ Displays:
 
 ---
 
-# 📊 Results
+#  Results
 
 ### Hash Table Efficiency
 
@@ -350,7 +350,7 @@ Binary Search significantly reduces comparisons compared to Linear Search.
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Potential enhancements include:
 
@@ -363,7 +363,7 @@ Potential enhancements include:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 * **Language:** C++
 * **UI Framework:** FTXUI
@@ -372,7 +372,7 @@ Potential enhancements include:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 .
